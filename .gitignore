@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Virtual envs
+.venv/
+.venv-langchain/
+venv/
+env/
+# Secrets / local config
+.env
+*.key
+# OS
+.DS_Store
+Thumbs.db
+
+# Scraped/downloaded data
+rtdocs/
